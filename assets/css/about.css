@@ -28,14 +28,12 @@ body {
   }
   
   
-  #AboutMe {
+  .home_banner_area {
   color: white;
   padding: 20px;
-  box-align: center;
   }
   
-  #Intro {
-    float: right;
+  .bio {
     padding: 20px;
     margin-top: 20px;
     color: white;
